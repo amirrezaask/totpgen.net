@@ -1,0 +1,17 @@
+D:\source\totpgen\bin\Debug\net9.0\totpgen.exe
+D:\source\totpgen\bin\Debug\net9.0\totpgen.deps.json
+D:\source\totpgen\bin\Debug\net9.0\totpgen.runtimeconfig.json
+D:\source\totpgen\bin\Debug\net9.0\totpgen.dll
+D:\source\totpgen\bin\Debug\net9.0\totpgen.pdb
+D:\source\totpgen\obj\Debug\net9.0\totpgen.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\totpgen\obj\Debug\net9.0\totpgen.AssemblyInfoInputs.cache
+D:\source\totpgen\obj\Debug\net9.0\totpgen.AssemblyInfo.cs
+D:\source\totpgen\obj\Debug\net9.0\totpgen.csproj.CoreCompileInputs.cache
+D:\source\totpgen\obj\Debug\net9.0\totpgen.dll
+D:\source\totpgen\obj\Debug\net9.0\refint\totpgen.dll
+D:\source\totpgen\obj\Debug\net9.0\totpgen.pdb
+D:\source\totpgen\obj\Debug\net9.0\totpgen.genruntimeconfig.cache
+D:\source\totpgen\obj\Debug\net9.0\ref\totpgen.dll
+D:\source\totpgen\bin\Debug\net9.0\Otp.NET.dll
+D:\source\totpgen\obj\Debug\net9.0\totpgen.csproj.AssemblyReference.cache
+D:\source\totpgen\obj\Debug\net9.0\totpgen.csproj.Up2Date
