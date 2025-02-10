@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("totpgen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6424de537e16bf689e5fa0599c552833fcf9654d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd8a42b28fa6d26ade8655be21779442f7f68776")]
 [assembly: System.Reflection.AssemblyProductAttribute("totpgen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("totpgen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
